@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350723309326",
+    "firebase_url": "https://notification-c4002.firebaseio.com",
+    "project_id": "notification-c4002",
+    "storage_bucket": "notification-c4002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350723309326:android:351c48885dd03982",
+        "android_client_info": {
+          "package_name": "com.example.dell.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350723309326-mahm1b7u134v4s2jb9gdr3hm5hnttg2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.notification",
+            "certificate_hash": "c58ac2844d6300de201d36d92a975b8fdf56a548"
+          }
+        },
+        {
+          "client_id": "350723309326-jc8q1hmbt11a8frjr4ujs5acgmj1n0cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhto-vDc4HurHJF9951RF16rskRa8Hye4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350723309326-jc8q1hmbt11a8frjr4ujs5acgmj1n0cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
